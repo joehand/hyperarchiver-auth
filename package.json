@@ -19,6 +19,7 @@
     "prompt": "^1.0.0",
     "subcommand": "^2.0.4",
     "township": "^1.1.0",
+    "township-client": "^1.1.0",
     "xtend": "^4.0.1"
   }
 }
