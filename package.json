@@ -1,0 +1,24 @@
+{
+  "name": "hyperarchiver-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "hyperarchiver-auth": "bin/cli.js"
+  },
+  "scripts": {
+    "start": "DEBUG=archiver-server,archiver-api node index.js",
+    "test": "standard"
+  },
+  "author": "Joe Hand <joe@hand.email> (https://joeahand.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "appa": "^6.0.0",
+    "hyperarchiver": "^1.1.0",
+    "level-party": "^3.0.4",
+    "prompt": "^1.0.0",
+    "subcommand": "^2.0.4",
+    "township": "^1.1.0",
+    "xtend": "^4.0.1"
+  }
+}
