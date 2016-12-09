@@ -17,6 +17,13 @@ It may take a moment to be available until the archive is fully backed up. You'l
 
 The archive is now available over HTTP and over Dat!
 
+## Testing Push
+
+1. Start the server
+2. Create a dat in a directory.
+3. Login/Register
+4. Run `hyperarchiver-auth push` in the dat directory.
+
 ## TODO
 
 * Drink more coffee
