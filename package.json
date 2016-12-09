@@ -14,9 +14,12 @@
   "license": "MIT",
   "dependencies": {
     "appa": "^6.0.0",
+    "dat-node": "^1.0.0-alpha-2.1.1",
     "hyperarchiver": "^1.1.0",
     "level-party": "^3.0.4",
+    "peer-network": "^1.2.0",
     "prompt": "^1.0.0",
+    "pump": "^1.0.1",
     "subcommand": "^2.0.4",
     "township": "^1.1.0",
     "township-client": "^1.1.0",
