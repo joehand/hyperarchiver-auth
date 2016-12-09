@@ -6,7 +6,7 @@ Experimental [hyperarchiver](https://github.com/joehand/hyperarchiver) auth site
 
 You'll add a Dat to the hyperarchiver and then you can visit it on the lines!
 
-0. Install it: `git clone link_up_there ^` && `npm link`.
+0. Install it: `git clone git@github.com:joehand/hyperarchiver-auth.git` && `npm link`.
 1. Run the server: `npm start` (keep this window open & running)
 2. Register a user: `hyperarchiver-auth register`
 3. Add a Dat: `hyperarchiver-auth add --key 002fcbb034a3a9990e3877d08e8bf2fdfb9fc1ced498948be94577fc82336c9e`
